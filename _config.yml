@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Owen J Skinner
+title: Owen's Awesome and Cool Portfolio Website
 email: ojskinner394@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Decription pending.
+  A place that I'll put my projects and portfolio stuff, I guess.
 twitter_username: 
 github_username: esspee39
 minimal_mistakes_skin: default
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Owen Skinner"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Bio pending"
+  bio    : "super cool and smart dude"
   links:
     #- label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
