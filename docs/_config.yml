@@ -28,7 +28,7 @@ twitter_username: esspee394
 github_username:  esspee39
 
 # Build settings
-theme: slate
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
