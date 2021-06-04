@@ -3,4 +3,4 @@ permalink: /about/
 title: "About"
 ---
 
-Hello! Welcome to my website :)
+Mid Term Mini project  - (Adv) Web Programming Course
