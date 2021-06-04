@@ -22,7 +22,7 @@ title: Owen J Skinner
 email: ojskinner394@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Description pending
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/home" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: esspee394
 github_username:  esspee39
